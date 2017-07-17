@@ -10,7 +10,7 @@ git clone /path/to/repository
 
 git init
 
-git add <filename>
+`git add <filename>`
 
 git add *
 
@@ -22,17 +22,17 @@ git push origin master
 
 git status
 
-git checkout -b <branchname>
+`git checkout -b <branchname>`
 
-git checkout <branchname>
+`git checkout <branchname>`
 
-git branch -d <branchname>
+`git branch -d <branchname>`
 
-git push origin <branchname>
+`git push origin <branchname>`
 
 git push --all origin
 
-git push origin :<branchname>
+`git push origin :<branchname>`
 
 git pull
 
