@@ -42,5 +42,6 @@ git push --tags origin
 
 git fetch origin
 
-Note([Source])(https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
+
+Source [link](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
