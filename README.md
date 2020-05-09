@@ -42,6 +42,15 @@ git push --tags origin
 
 git fetch origin
 
+---------git pull force-----------------
+
+git fetch --all
+
+git reset --hard origin/master
+
+git reset --hard origin/<branch_name>
+
+-----------------------------------------------
 
 
 Source [link](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
