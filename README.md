@@ -51,26 +51,26 @@ git reset --hard origin/master
 git reset --hard origin/<branch_name>
 
 -----------------------------------------------
-`
-…or create a new repository on the command line
 
-echo "# elearning" >> README.md
+## or create a new repository on the command line
 
-git init
+`echo "# elearning" >> README.md`
 
-git add README.md
+`git init`
 
-git commit -m "first commit"
+`git add README.md`
 
-git remote add origin https://github.com/sarveshhome/elearning.git
+`git commit -m "first commit"`
 
-git push -u origin master
+`git remote add origin https://github.com/sarveshhome/elearning.git`
+
+`git push -u origin master`
                 
-…or push an existing repository from the command line
+## or push an existing repository from the command line
 
-git remote add origin https://github.com/sarveshhome/elearning.git
+`git remote add origin https://github.com/sarveshhome/elearning.git`
 
-git push -u origin master `
+`git push -u origin master`
 
 
 
