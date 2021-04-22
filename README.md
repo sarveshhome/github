@@ -72,6 +72,9 @@ git reset --hard origin/<branch_name>
 
 `git push -u origin master`
 
+or
+
+`git push -f origin master`
 
 
 ---------------------------------------------------
